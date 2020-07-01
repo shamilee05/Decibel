@@ -51,7 +51,3 @@
 - These node.js modules are required to connect cloudmqtt to firebase
 - https://github.com/kets99/node_mqtt
 - https://github.com/kets99/node_firebase1
-
-
-
-
